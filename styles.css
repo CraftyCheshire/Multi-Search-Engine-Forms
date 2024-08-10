@@ -1,6 +1,6 @@
 nav {
     text-align: center;
-    background-color: rgb(255, 252, 162);
+    background-color: rgb(255, 203, 148);
 }
 
 body {
@@ -9,4 +9,6 @@ body {
 
 section {
     text-align: center;
+    background-color: salmon;
+    
 }
